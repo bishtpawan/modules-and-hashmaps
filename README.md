@@ -1,4 +1,4 @@
-# Hashmaps and Bianry Modules
+# Hashmaps and Modules
 
 This project is intended to explain the concepts of Hashmaps and binay modules in Rust Programming.
 
