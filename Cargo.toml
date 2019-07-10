@@ -1,0 +1,7 @@
+[package]
+name = "modules-and-hashmaps"
+version = "0.1.0"
+authors = ["bishtpawan <pawan.knoldus@knoldus.in>"]
+edition = "2018"
+
+[dependencies]
